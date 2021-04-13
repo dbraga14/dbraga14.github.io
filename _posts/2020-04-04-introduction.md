@@ -3,7 +3,9 @@ layout: post
 title: Introduction
 ---
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+# Start
+
+This is an introduction to who I am. I am a student of certain topics, and I like to talk about math and computer science. I currently work as a software engineer and here is my <a href=dbraga14.github.io/my_files/Resume2019.pdf target="_blank">resume</a> 
 
 -----
 
