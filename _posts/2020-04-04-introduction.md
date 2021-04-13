@@ -5,7 +5,7 @@ title: Introduction
 
 # Start
 
-This is an introduction to who I am. I am a student of certain topics, and I like to talk about math and computer science. I currently work as a software engineer and here is my <a href=dbraga14.github.io/my_files/Resume2019.pdf target="_blank">resume</a> 
+This is an introduction to who I am. I am a student of certain topics, and I like to talk about math and computer science. I currently work as a software engineer and here is my [resume](my_files/Resume2019.pdf).
 
 -----
 
